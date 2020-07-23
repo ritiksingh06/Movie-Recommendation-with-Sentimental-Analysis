@@ -3,14 +3,14 @@ Content Based Recommender System recommends movies similar to the movie user lik
 
 The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api
 
-#Sources of the datasets
+# Sources of the datasets
 
-1.https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
+1. https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 
-2.https://www.kaggle.com/rounakbanik/the-movies-dataset
+2. https://www.kaggle.com/rounakbanik/the-movies-dataset
 
-3.https://en.wikipedia.org/wiki/List_of_American_films_of_2018
+3. https://en.wikipedia.org/wiki/List_of_American_films_of_2018
 
-4.https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis#sources-of-the-datasets
+4. https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis#sources-of-the-datasets
 
-5.https://en.wikipedia.org/wiki/List_of_American_films_of_2020
+5. https://en.wikipedia.org/wiki/List_of_American_films_of_2020
