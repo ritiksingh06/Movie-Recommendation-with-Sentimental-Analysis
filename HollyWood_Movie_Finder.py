@@ -32,6 +32,8 @@ def _max_width_():
 
 _max_width_()
 
+# function for calling main_prediction.py and display movie detail as table
+
 def find_movie(movie,movie_data,user_movie,l):
     with st.spinner("Loading ...."):
         t.sleep(3)
@@ -64,6 +66,8 @@ def find_movie(movie,movie_data,user_movie,l):
 
     st.success("Hope You Like Our Recommendation")
     st.info("Enter Differnet Movie Name To Find More Movie")
+
+# main code starts from here
 
 def main():
     side_head="""
@@ -162,11 +166,14 @@ def main():
     try:
         n=st.text_input("")
         movie,index,user_movie=mp.recommend(n)
+        
+        # index == movie indexes in main_data.csv we find it but not use 
+        # we use movietitle as index in our code
+
     except IndexError:
         place_holder.subheader("")
     else:
         find_movie(movie,movie_data,user_movie,l)
-
 if __name__ == "__main__":
     main()
 
