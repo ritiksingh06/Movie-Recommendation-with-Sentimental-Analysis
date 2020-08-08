@@ -3,6 +3,7 @@ Content Based Recommender System recommends movies similar to the movie user lik
 
 # Link to View the Application -
 https://hollywood-movie-finder.herokuapp.com
+
 # Requirement for this project
 1. pandas (1.0.3)
 2. numpy (1.18.1)  
@@ -10,8 +11,8 @@ https://hollywood-movie-finder.herokuapp.com
 4. streamlit (0.64.0)
 
 # Steps To Run This Project
-1. install all requirements in your local system.
-2. CLone this repo in your local system
+1. Install all requirements in your local system.
+2. Clone this repo in your local system
 3. Run this command on your terminal/cmd  **streamlit run HollyWood_Movie_Finder.py
 
 
