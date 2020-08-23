@@ -18,11 +18,13 @@ https://hollywood-movie-finder.herokuapp.com
 
 # OUTPUT
 
-![Screenshot from 2020-08-23 21-07-00](https://user-images.githubusercontent.com/67313757/90982859-ce237f80-e587-11ea-9b2e-850106ab61c4.png)
+![Screenshot from 2020-08-23 21-37-10](https://user-images.githubusercontent.com/67313757/90983052-f364bd80-e588-11ea-94bc-d20bcfe40d92.png)
 
-![Screenshot from 2020-08-23 21-07-26](https://user-images.githubusercontent.com/67313757/90982870-dbd90500-e587-11ea-85a4-956e26ec6301.png)
 
-![Screenshot from 2020-08-23 21-07-35](https://user-images.githubusercontent.com/67313757/90982878-e4314000-e587-11ea-82e0-c42051f4eee3.png)
+![Screenshot from 2020-08-23 21-37-37](https://user-images.githubusercontent.com/67313757/90983059-011a4300-e589-11ea-80b2-f404d93e825f.png)
+
+
+![Screenshot from 2020-08-23 21-37-44](https://user-images.githubusercontent.com/67313757/90983064-07102400-e589-11ea-8589-3c1b74f62ffe.png)
 
 
 # Sources of the datasets
