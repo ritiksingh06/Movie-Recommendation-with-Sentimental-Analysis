@@ -30,7 +30,7 @@ app=Flask(__name__)
 def home():
     if request.method=="POST":
         n=request.form['usrmovie']
-        print(n)
+        # print(n)
         if n=="":
             err="please Enter Movie Name"
             return render_template("index.html",err=err)
@@ -48,5 +48,8 @@ def home():
                                                 rec=rec,fav=fav)
          
     return render_template("index.html")
+
+if __name__ == "__main__":
+    app.run(debug=True)
 
 
