@@ -3,18 +3,12 @@ Content Based Recommender System recommends movies similar to the movie user lik
 
 See Project live at :- https://hollywood-movie-recommend.herokuapp.com/
 
-# Requirement For This Proect
-  pandas==1.0.3
-  
-  numpy==1.18.1
-  
-  scikit-learn==0.22.1
-  
-  nltk==3.4.5
-  
-  Flask==1.1.2
-  
-  jinja2==2.11.2
+# Requirement For This Proect pandas==1.0.3
+1.  numpy==1.18.1
+2.  scikit-learn==0.22.1
+3.  nltk==3.4.5
+4.  Flask==1.1.2
+5.  jinja2==2.11.2
   
 ## For Deploy at heroku we require gunicorn to run web app
   gunicorn==19.9.0
