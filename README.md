@@ -20,12 +20,11 @@ Link to view the applicatij :- https://hollywood-movie-recommend.herokuapp.com/
 3.  Run this Command on your Terminal/cmd **python main.py**
 
 # output 
-![Screenshot from 2020-09-22 12-48-40](https://user-images.githubusercontent.com/67313757/93855035-6f5f3c00-fcd4-11ea-8a25-a14cff6ddb85.png)
+![Screenshot from 2020-09-23 22-05-24](https://user-images.githubusercontent.com/67313757/94043025-e803ec80-fde9-11ea-8432-2418a3759efc.png)
 
-![Screenshot from 2020-09-22 12-48-48](https://user-images.githubusercontent.com/67313757/93855080-81d97580-fcd4-11ea-8cb1-35cd7ba71099.png)
+![Screenshot from 2020-09-23 22-05-44](https://user-images.githubusercontent.com/67313757/94043037-ec300a00-fde9-11ea-8023-7366a0eb572c.png)
 
-
-![Screenshot from 2020-09-22 12-49-06](https://user-images.githubusercontent.com/67313757/93855104-8e5dce00-fcd4-11ea-9763-5c5be484a9fc.png)
+![Screenshot from 2020-09-23 22-05-57](https://user-images.githubusercontent.com/67313757/94043048-efc39100-fde9-11ea-8d45-ed77a39bb084.png)
 
 
 # Sources of the datasets
