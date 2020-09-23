@@ -1,14 +1,15 @@
 # Movie-Recommendation-with-Sentimental-Analysis
 Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
 
-See Project live at :- https://hollywood-movie-recommend.herokuapp.com/
+Link to view the applicatij :- https://hollywood-movie-recommend.herokuapp.com/
 
-# Requirement For This Proect pandas==1.0.3
-1.  numpy==1.18.1
-2.  scikit-learn==0.22.1
-3.  nltk==3.4.5
-4.  Flask==1.1.2
-5.  jinja2==2.11.2
+# Requirement For This Project 
+1. pandas==1.0.3
+2. numpy==1.18.1
+3. scikit-learn==0.22.1
+4. nltk==3.4.5
+5. Flask==1.1.2
+6. jinja2==2.11.2
   
 ## For Deploy at heroku we require gunicorn to run web app
   gunicorn==19.9.0
@@ -28,6 +29,7 @@ See Project live at :- https://hollywood-movie-recommend.herokuapp.com/
 
 
 # Sources of the datasets
+The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API,web scraping was done  to get the reviews given by the user in the IMDB site using beautifulsoup4 and performed sentiment analysis on those reviews.
 
 1. https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 
